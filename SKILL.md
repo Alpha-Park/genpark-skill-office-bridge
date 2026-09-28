@@ -10,7 +10,7 @@ license: MIT
 # Office Bridge — Suite Integration Agent
 
 ## Overview
-Office Bridge is the content specialist of the GenPark Work Agent Group. Inspired by Genspark's "Workspace 4.0 Integration," this agent bridges the gap between AI intelligence and the tools humans use most. It operates directly within document editors to research, draft, format, and visualize information without requiring the user to copy-paste between windows.
+Office Bridge is the content specialist of the GenPark Work Agent Group. Inspired by GenPark's "Workspace 4.0 Integration," this agent bridges the gap between AI intelligence and the tools humans use most. It operates directly within document editors to research, draft, format, and visualize information without requiring the user to copy-paste between windows.
 
 ## Capabilities
 1. **Native Document Drafting**: Generate professional-grade Word/Doc files with proper heading hierarchies, tables of contents, and citations.
